@@ -3,7 +3,7 @@
   <h3>Bora pro código!</h3>
 </div>
 <div align="center">
-  <a href="https://github.com/SamuelBarbosaDev">
+  <a href="https://linktr.ee/samuelbarbosa_dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelBarbosaDev&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBarbosaDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
