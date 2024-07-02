@@ -1,6 +1,5 @@
 <div align="center">
-    <h1> Samuel Barbosa | Resolvo Problemas Com Tecnologia 🧐</h1>
-    <h3>Bora pro código!</h3>
+    <h1> Samuel Barbosa | Agiotagem LTDA. 🧐</h1>
 </div>
 <div align="center">
 <a href="https://linktr.ee/samuelbarbosa_dev">
