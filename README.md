@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Samuel Barbosa | Agiotagem LTDA. 🧐</h1>
+    <h1>Samuel Evangelista | E conhecereis a verdade, e a verdade vos libertará.</h1>
 </div>
 <div align="center">
 <a href="https://linktr.ee/samuelbarbosa_dev">
